@@ -46,8 +46,8 @@ For running the project you must have PHP 7.4.2.
 To run the project, create an empty database.
 Then just do the following:
 
-    git clone https://github.com/stasyanko/laravel-large-project.git
-    cd laravel-large-project
+    git clone https://github.com/wholespace/laravel-large.git
+    cd laravel-large
 	cp .env.example .env
 	
 
